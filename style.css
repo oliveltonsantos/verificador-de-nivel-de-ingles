@@ -52,7 +52,7 @@ section {
     height: 300px;
     border-radius: 10px 10px 0 0px;
     background-size: cover;
-    background-image: url(../nivel-de-ingles/images/aprenderingles.jpg);
+    background-image: url(../verificador-de-nivel-de-ingles/images/aprenderingles.jpg);
     transition: all 500ms ease-in;
 }
 
