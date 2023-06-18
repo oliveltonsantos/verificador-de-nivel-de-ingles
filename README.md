@@ -24,7 +24,7 @@ https://github.com/oliveltonsantos/verificador-de-nivel-de-ingles/assets/1243737
 
 ### 💬 Sugestões:
 
-Fico aberto a sugestões de melhoria e ideias, caso você tenha alguma basta me enviar uma mensagem no [Instagram](https://www.instagram.com/navegandoemc0d1gos) ou [LinkedIn](https://www.linkedin.com/in/olivelton-santos).
+Fico aberto a sugestões de melhoria e ideias, caso você tenha alguma basta me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/olivelton-santos).
 
 ##
 
