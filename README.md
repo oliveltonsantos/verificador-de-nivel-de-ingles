@@ -14,6 +14,19 @@ Observação: este projeto tem apenas fins didáticos, o resultado não deve ser
 
 ##
 
+### 📝 Conhecimentos colocados em prática:
+
+O objetivo principal deste projeto foi praticar alguns conhecimentos básicos de JavaScript como:
+
+- Variáveis
+- Tipos primitivos
+- Tratamento de dados
+- Operadores
+- DOM
+- Condições
+
+##
+
 ### 💻 Resultado:
 
 Acesse o site pronto neste link [aqui](https://oliveltonsantos.github.io/verificador-de-nivel-de-ingles)!
