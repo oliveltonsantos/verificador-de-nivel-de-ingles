@@ -39,12 +39,6 @@ https://github.com/oliveltonsantos/verificador-de-nivel-de-ingles/assets/1243737
 
 Fico aberto a sugestões de melhoria e ideias, caso você tenha alguma basta me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/olivelton-santos).
 
-##
-
-### 📱 Acompanhe a minha jornada:
-
-[clique aqui!](https://oliveltonsantos.github.io/card-links/)
-
 
 
 
